@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sisonvo.github.io/sitemap.html
+Sitemap: https://sisonvo.github.io/app/sitemap.html
+Sitemap: https://sisonvo.github.io/assets/sitemap.html
+Sitemap: https://sisonvo.github.io/includes/sitemap.html
+Sitemap: https://sisonvo.github.io/src/sitemap.html
